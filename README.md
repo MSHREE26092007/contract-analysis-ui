@@ -103,10 +103,12 @@ contract-analysis-ui/
 ## 👥 Contributors
 
 - [@MSHREE26092007](https://github.com/MSHREE26092007)
+- [@varshrinirn](https://github.com/varshrinirn)
 - [@Varshrini23](https://github.com/Varshrini23)
 
 ---
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
